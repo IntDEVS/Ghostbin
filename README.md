@@ -1,16 +1,7 @@
-# TITULO
-<p> descripción </p>
+# Ghostbin Desencryptor 
+<p> Desencriptador de Ghostbin sencillo, loguea los válidos etc... </p>
 
-| Titulo 1        | Titulo 2           | Titulo 3  |
-| ------------- |:-------------:| -----:|
-| desc 1     | desc 1      | desc 1 |
-| desc 2     | desc 2      | desc 2 |
-| desc 3     | desc 3      | desc 3 |
 
-![foto]()
+![](https://i.imgur.com/NkdRwTm.png)
 
-```código
-TÚ CÓDIGO
-```
-
-<h1 align="center"> CENTRO </h1>
+* More info in [ghostbin.py]
