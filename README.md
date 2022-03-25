@@ -4,4 +4,4 @@
 
 ![](https://i.imgur.com/NkdRwTm.png)
 
-* More info in [ghostbin.py]
+* More info in [Ghostbin.py](https://github.com/IntDEVS/Ghostbin/blob/main/ghostbin.py)
